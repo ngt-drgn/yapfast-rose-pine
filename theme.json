@@ -1,6 +1,6 @@
 {
   "authors": [],
-  "description": "Rose Pine palette. Fonts: JetBrainsMonoNL Nerd Font Mono (This Font Software is licensed under the SIL Open Font License).",
+  "description": "Made with Yapfast's theme creator. Fonts: JetBrainsMonoNL Nerd Font Mono (This Font Software is licensed under the SIL Open Font License).",
   "id": "local.creator.draft",
   "license": "CC0-1.0 AND OFL-1.1",
   "name": "Rose Pine",
@@ -77,10 +77,10 @@
     "dark": {
       "base": "catppuccin-mocha",
       "colours": {
-        "accent": "#c4a7e7",
-        "accent-hover": "#d5c1ea",
-        "accent-soft": "#c4a7e726",
-        "accent-text": "#c4a7e7",
+        "accent": "#ebbcba",
+        "accent-hover": "#f2d3d0",
+        "accent-soft": "#ebbcba26",
+        "accent-text": "#ebbcba",
         "account": "#191724",
         "actions": "#26233a",
         "active": "#403d52",
