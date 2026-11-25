@@ -75,7 +75,7 @@
   },
   "variants": {
     "dark": {
-      "base": "rose-pine",
+      "base": "catppuccin-mocha",
       "colours": {
         "accent": "#c4a7e7",
         "accent-hover": "#d5c1ea",
