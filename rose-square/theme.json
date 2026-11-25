@@ -1,0 +1,125 @@
+{
+  "authors": [],
+  "description": "Rose Pine palette. Fonts: JetBrainsMonoNL Nerd Font Mono (This Font Software is licensed under the SIL Open Font License).",
+  "id": "local.creator.draft",
+  "license": "CC0-1.0 AND OFL-1.1",
+  "name": "Rose Pine",
+  "preview": [],
+  "shape": {
+    "actions": {
+      "radius": 0.0
+    },
+    "avatar": {
+      "radius": 0.0
+    },
+    "button": {
+      "radius": 0.0
+    },
+    "card": {
+      "radius": 0.0
+    },
+    "chip": {
+      "radius": 0.0
+    },
+    "code": {
+      "radius": 0.0
+    },
+    "composer": {
+      "radius": 0.0
+    },
+    "dialog": {
+      "radius": 0.0
+    },
+    "embed": {
+      "radius": 0.0
+    },
+    "field": {
+      "radius": 0.0
+    },
+    "menu": {
+      "radius": 0.0
+    },
+    "message": {
+      "radius": 0.0
+    },
+    "radii": {
+      "large": 0.0,
+      "medium": 0.0,
+      "small": 0.0
+    },
+    "rail-icon": {
+      "radius": 0.0
+    },
+    "tile": {
+      "radius": 0.0
+    },
+    "tooltip": {
+      "radius": 0.0
+    }
+  },
+  "source": "",
+  "spacing": {
+    "density": "compact"
+  },
+  "theme_api": 1,
+  "type": {
+    "body": {
+      "font": "fonts/jetbrainsmononl-nerd-font-mono.ttf"
+    },
+    "headings": {
+      "font": "fonts/jetbrainsmononl-nerd-font-mono.ttf"
+    },
+    "labels": {
+      "font": "fonts/jetbrainsmononl-nerd-font-mono.ttf"
+    }
+  },
+  "variants": {
+    "dark": {
+      "base": "rose-pine",
+      "colours": {
+        "accent": "#c4a7e7",
+        "accent-hover": "#d5c1ea",
+        "accent-soft": "#c4a7e726",
+        "accent-text": "#c4a7e7",
+        "account": "#191724",
+        "actions": "#26233a",
+        "active": "#403d52",
+        "avatar": "#6e6a86",
+        "button-default": "#403d52",
+        "button-default-hover": "#524f67",
+        "chat": "#191724",
+        "code": "#191724",
+        "composer": "#26233a",
+        "edge": "#191724",
+        "embed": "#1f1d2e",
+        "faint": "#6e6a86",
+        "field": "#26233a",
+        "hover": "#26233a",
+        "line": "#26233a",
+        "link": "#9ccfd8",
+        "live": "#9ccfd8",
+        "loud": "#f6c177",
+        "menu": "#26233a",
+        "muted": "#908caa",
+        "on-accent": "#191724",
+        "outline": "#26233a",
+        "outline-chat": "#26233a",
+        "outline-field": "#26233a",
+        "overlay": "#ffffff",
+        "panel": "#191724",
+        "rail": "#191724",
+        "raised": "#26233a",
+        "reply-spine": "#524f67",
+        "row-hover": "#1f1d2e",
+        "secondary": "#e0def4",
+        "shimmer": "#ffffff10",
+        "sidebar": "#1f1d2e",
+        "stage": "#191724",
+        "sunken": "#191724",
+        "text": "#e0def4",
+        "tooltip": "#191724"
+      }
+    }
+  },
+  "version": "1.0.0"
+}
